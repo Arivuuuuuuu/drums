@@ -1,0 +1,68 @@
+body{
+    text-align: center;
+    background-color: gray;
+    
+}
+.kit{
+    font-size: 10rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    text-shadow: 3px 0 red;
+    color: black;
+
+}
+button{
+    text-align: center;
+    display: inline-block;
+    font-size: 3rem;
+    line-height: 2;
+    font-style: italic;
+    font-weight: bold;
+    width:150px;
+    height: 150px;
+    gap: 10px;
+    border:10px solid black;
+    color:black;
+
+
+}
+.A{
+    background-image: url(images/crash.png);
+}
+.R{
+    background-image: url(images/kick.png);
+
+}
+.I{
+    background-image: url(images/snare.png);
+
+}
+.V{
+    background-image: url(images/tom1.png);
+
+}
+.U{
+    background-image: url(images/tom2.png);
+
+}
+.M{
+    background-image: url(images/tom3.png);
+
+}
+.S{
+    background-image: url(images/tom4.png);
+
+}
+footer{
+    font-size: 2rem;
+    color: whitesmoke;
+    text-align: center;
+    font-weight: bold;
+    height: 150px;
+    
+}
+.pressed{
+    box-shadow: 0 3px 4px 0;
+    opacity: 0.5;
+}
+
